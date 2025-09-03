@@ -1,79 +1,264 @@
-[![MasterHead](https://github.com/victorwokili/personal/blob/main/victorwokili-github-profile-display.gif)](https://victorwokili.io)
-<h1 align="center">Hi 😃, I'm Victor</h1>
-<h3 align="center">A Passionate Multi-Cloud Infrastructure, Security and DevOps Engineer</h3>
+# Hi there, I'm Victor Wokili 👋
 
-[![Terraform](https://img.shields.io/badge/terraform-%2B%2060%20modules-blue?style=for-the-badge&logo=terraform&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=blueviolet)](https://www.hashicorp.com/products/terraform) [![Open Source](https://img.shields.io/badge/open%20source-+140%20repos-blue?style=for-the-badge&logo=github&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=20c997)](https://github.com/victorwokili)  [![Ref Architecture](https://img.shields.io/badge/ref%20architectures-+10%20stacks-blue?style=for-the-badge&logo=amazonaws&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=96f2d7)](https://github.com/victorwokili/AWS-Advanced) [![Documentation](https://img.shields.io/badge/documentation-complete-blue?style=for-the-badge&logo=bookstack&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=22b8cf)](https://leverage.binbash.com.ar/) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-ca/products/devops) [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/) [![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/) [![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![ApacheGroovy](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Sonarqube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
-![Synk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
-![Shelscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
-![SonaCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Site+Reliability+Engineer+%7C+Cloud+Engineer;Multi-Cloud+Infrastructure+Expert;DevOps+%26+Security+Engineer;Enterprise+Automation+Specialist" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<div align="center">
+  <a href="https://github.com/victorwokili">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=victorwokili&style=for-the-badge&color=3B82F6" alt="Profile Views" />
+</div>
 
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=victorwokili&label=Profile%20views&color=0e75b6&style=flat" alt="victorwokili" /> </p> --> 
+<br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=victorwokili&label=Profile%20views&color=0e75b6&style=flat" alt="victorwokili" style="width:170px; height:auto;" />
-</p>
+---
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on **AWS, Azure and GCP**
+<img align="right" alt="DevOps Animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 
-- 🌱 I’m currently growing my expertise on **IBM and Next Generation Automation**
+🔧 **Site Reliability Engineer** with 6+ years architecting enterprise-scale cloud infrastructure and automation systems
 
-- 👯 I’m looking to collaborate on **GitHub**
+🌩️ **Multi-Cloud Expert** specializing in AWS, Azure, and GCP with deep experience in cost optimization and security
 
-- 🤝 I’m willing and happy to **Help anytime**
+🛠️ **Infrastructure as Code** practitioner with advanced Terraform, CloudFormation, and Ansible automation
 
-- 💬 Ask me about **AWS, GCP, Azure, DevOps**
+📊 **Platform Engineering** leader focused on GitOps, self-healing systems, and zero-downtime deployments
 
-- 🥇 Check out some professional awards i have recieved over the years for my impact on cloud transformation **[Click Here](https://github.com/victorwokili/personal/blob/main/Awards/Chevron%20Awards.pdf)**
+🔐 **DevSecOps** advocate with automated security scanning, compliance frameworks, and vulnerability management
 
-- 👨‍💻 You can find some of my real world and personal projects here on GitHub
-    - **[Real-World Troubleshooting Experiences:](https://github.com/victorwokili/Troubleshooting)** I have documented numerous troubleshooting experiences I have encountered in my professional journey over the years.  <br> <br>
-    - **[Personal Projects:](https://github.com/victorwokili/AWS-Advanced)** I have undertaken various complex projects in my free time to demonstrate my passion for the Cloud and DevOps.  
+<br clear="right"/>
 
+---
 
-<p align="left">
-</p>
-<br><br>
-<h3 align="left">⚡ Technology Stack:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## 🏆 Recognition & Awards
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorwokili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="victorwokili" /></p>
+🥇 **Professional Impact Award** - Recognized for outstanding contributions to cloud transformation initiatives and infrastructure modernization. [View Awards](https://github.com/victorwokili/personal/blob/main/Awards/Chevron%20Awards.pdf)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorwokili&show_icons=true&locale=en&theme=tokyonight" alt="victorwokili" /></p> -->
+---
+
+## 🎖️ Certifications
+
+<div align="center">
+
+![Google Cloud Professional DevOps Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure DevOps Expert](https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Administrator](https://img.shields.io/badge/Microsoft-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CKA](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Core Competencies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌩️ Multi-Cloud Architecture
+- **Enterprise Migrations**: Large-scale application migrations across AWS, Azure, GCP
+- **Hybrid Environments**: VMware, Oracle, Active Directory integrations  
+- **Cost Optimization**: Intelligent resource management and automated scaling
+- **Security Compliance**: SOC2, GDPR, HIPAA automation and auditing
+- **Disaster Recovery**: Multi-region strategies with automated failover
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Platform Engineering
+- **GitOps Implementation**: Enterprise CI/CD with Harness, Jenkins, GitHub Actions
+- **Kubernetes Mastery**: EKS, AKS clusters with Istio service mesh
+- **Infrastructure as Code**: Advanced Terraform with 60+ modules
+- **Container Strategy**: Docker, Helm, automated image building
+- **Service Discovery**: Consul, automated service registration
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔐 DevSecOps Excellence
+- **Security Automation**: Integrated scanning with SonarQube, Snyk, Nessus
+- **Secrets Management**: HashiCorp Vault, AWS Parameter Store automation
+- **Compliance Frameworks**: Automated compliance reporting and remediation
+- **Vulnerability Management**: Proactive security scanning and patching
+- **Access Control**: RBAC, IAM, multi-factor authentication
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Observability & SRE
+- **Monitoring Systems**: Prometheus, Grafana, DataDog, Splunk
+- **SLI/SLO Management**: High-availability system design and monitoring
+- **Incident Response**: Automated remediation and escalation procedures  
+- **Performance Optimization**: Resource utilization and latency improvements
+- **Capacity Planning**: Predictive scaling based on traffic patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Mastery
+
+<div align="center">
+
+### Cloud Platforms & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+### Container Orchestration & Service Mesh
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+### Infrastructure as Code & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00D4FF?style=for-the-badge&logo=harness&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![DataDog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+### Security & Compliance
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### Databases & Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorwokili&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=victorwokili&theme=tokyonight&no-frame=true&column=4&margin-w=25&margin-h=25&row=1)
+  
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+| Project | What it delivers | Tech Stack | Impact |
+|---|---|---|---|
+| **[Enterprise Smart Home Hub](https://github.com/victorwokili/homelab)** | Production-ready smart home automation with self-healing infrastructure | Docker, Home Assistant, Grafana, InfluxDB, Pi-hole, Automated Backups | 14+ services, enterprise-grade reliability, zero-downtime updates |
+| **[AWS Advanced Architectures](https://github.com/victorwokili/AWS-Advanced)** | Real-world cloud infrastructure patterns and solutions | AWS, Terraform, CloudFormation, Multi-AZ, Auto-scaling | Scalable, secure, cost-optimized reference architectures |
+| **[Real-World Troubleshooting](https://github.com/victorwokili/Troubleshooting)** | Comprehensive documentation of infrastructure troubleshooting scenarios | Various cloud and on-premise technologies | Knowledge sharing and problem-solving methodologies |
+| **Multi-Cloud Migration Toolkit** | Automated migration patterns and best practices | AWS SMS/DMS, Azure Migrate, Terraform, Ansible | Streamlined cloud adoption and workload migration |
+
+---
+
+## 📊 Weekly Engineering Focus
+
+```text
+Platform Engineering     ████████████████████░   45%
+Security & Compliance    ██████████░░░░░░░░░░░   25%
+Infrastructure as Code   ██████░░░░░░░░░░░░░░░   15%
+Performance Optimization ████░░░░░░░░░░░░░░░░░   10%
+Documentation & Learning ██░░░░░░░░░░░░░░░░░░░    5%
+```
+
+---
+
+## 🌱 Current Focus & Learning
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔬 Exploring
+- **Platform Engineering** with Backstage and internal developer platforms
+- **FinOps** advanced cost optimization and chargeback models  
+- **AI/ML Infrastructure** for model serving and MLOps pipelines
+- **Edge Computing** with WebAssembly and distributed systems
+- **Chaos Engineering** with Litmus and fault injection testing
+
+</td>
+<td valign="top" width="50%">
+
+### 🚧 Working On
+- Advanced GitOps patterns with ArgoCD and Flux
+- Multi-cluster Kubernetes management strategies
+- Zero-trust security architectures  
+- Automated compliance frameworks
+- Next-generation observability with OpenTelemetry
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+**California State University, Fresno**  
+Bachelor of Science in Computer Engineering  
+*Minors: Electrical Engineering, Mathematics*
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm passionate about building reliable, scalable infrastructure and helping organizations achieve their cloud transformation goals. Whether you're interested in discussing platform engineering, sharing DevOps best practices, or collaborating on open-source projects, feel free to reach out through GitHub!
+
+<a href="https://github.com/victorwokili">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70" />
+</div>
+
+<div align="center">
+  <sub>Built with passion by Victor Wokili ❤️| Site Reliability Engineer & Cloud Engineer</sub>
+</div>
