@@ -44,7 +44,8 @@
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7f1f2272-3a41-4b48-af07-7a8cfa5c3289)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/d044d754-97d0-4994-88e3-01fd54f35b4b/linked_in_profile)
 
-<sub>🔗 Click any certification badge to verify credentials via Credly or Microsoft Learn</sub>
+ > [!TIP]
+> 🔗 **Click any certification badge to verify credentials via Credly or Microsoft Learn**
 
 </div>
 
