@@ -43,12 +43,12 @@
 
 <div align="center">
 
-![Google Cloud Professional DevOps Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure DevOps Expert](https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Administrator](https://img.shields.io/badge/Microsoft-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CKA](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+[![Google Cloud Professional DevOps Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/27923dff-be26-4543-8724-6071ffe4e197/public_url)
+[![Azure DevOps Expert](https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Vic-4119/F890B93F3A909E5A?sharingId=386A5716A99AE83A)
+[![CKA](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/05befcd1-1c72-4e8b-a0ca-32da2cf7c1ad/public_url)
+[![Azure Administrator](https://img.shields.io/badge/Microsoft-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Vic-4119/12428703552498FA?sharingId=386A5716A99AE83A)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7f1f2272-3a41-4b48-af07-7a8cfa5c3289)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/d044d754-97d0-4994-88e3-01fd54f35b4b/linked_in_profile)
 
 </div>
 
