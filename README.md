@@ -33,12 +33,6 @@
 
 ---
 
-## 🏆 Recognition & Awards
-
-🥇 **Professional Impact Award** - Recognized for outstanding contributions to cloud transformation initiatives and infrastructure modernization. [View Awards](https://github.com/victorwokili/personal/blob/main/Awards/Chevron%20Awards.pdf)
-
----
-
 ## 🎖️ Certifications
 
 <div align="center">
@@ -53,6 +47,12 @@
 <sub>🔗 Click any certification badge to verify credentials via Credly or Microsoft Learn</sub>
 
 </div>
+
+---
+
+## 🏆 Recognition & Awards
+
+🥇 **Professional Impact Award** - Recognized for outstanding contributions to cloud transformation initiatives and infrastructure modernization. [View Awards](https://github.com/victorwokili/personal/blob/main/Awards/Chevron%20Awards.pdf)
 
 ---
 
